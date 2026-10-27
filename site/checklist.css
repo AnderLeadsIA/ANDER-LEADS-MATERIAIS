@@ -1,0 +1,26 @@
+@media screen{
+body{background:#0b0b0b}
+.intro .note{background:#fff7d6;color:#453811;border-color:#907229}
+.item-light{color-scheme:light;background:#fff;color:#161616;border-color:#bbb}
+.item-light h3{color:#161616}
+.item-light p,.item-light ul,.item-light .why{color:#484848}
+.item-light .why{border-color:#886400}
+.item-light .tag{background:#facc15;color:#161616}
+.item-light .tag.optional{background:#e7e7e7;color:#292929}
+.item-light input[type=checkbox]{background:#fff;border-color:#766000}
+.item-light input:checked{background:#facc15}
+.item-light input:checked:after{color:#111}
+.item-light input:focus-visible{outline:3px solid #174f9e;outline-offset:4px}
+.sidecard:first-child{color-scheme:light;background:#fff;color:#161616;border-color:#bcbcbc}
+.sidecard:first-child .big{color:#735300}
+.sidecard:first-child :is(p,.small){color:#484848}
+.sidecard:first-child .bar{background:#e4e4e4}
+.sidecard:first-child .fill{background:#866000}
+.sidecard:first-child .tools button{background:#222;color:#fff;border-color:#222;min-height:44px}
+.sidecard:first-child button:focus-visible{outline:3px solid #174f9e;outline-offset:4px}
+.callout{color-scheme:light;background:#fff;color:#161616;border-color:#bcbcbc}
+.callout h2{color:#161616}
+.callout p{color:#484848}
+.callout .btn{background:#facc15;color:#111;border-color:#887000}
+.callout a:focus-visible{outline:3px solid #174f9e;outline-offset:4px}
+}

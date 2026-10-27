@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "guias/google-ou-instagram",
+    "title": "Google ou Instagram?",
+    "category": "Guias",
+    "topic": "Estratégia digital",
+    "format": "PDF · 1 página",
+    "description": "Descubra por onde começar a anunciar, de acordo com a intenção de quem procura seu negócio.",
+    "detail": "Compare exemplos de segmentos, conheça as três perguntas antes de investir e confira o que preparar para seus primeiros anúncios. São pontos de partida para avaliar seu cenário, sem fórmulas prontas.",
+    "file": "google-ou-instagram.pdf",
+    "kind": "pdf",
+    "action": "Ler o guia",
+    "message": "Olá, Ander! Vi seu guia Google ou Instagram e quero ajuda para escolher onde anunciar minha empresa."
+  },
+  {
+    "slug": "checklists/google-ads",
+    "title": "Antes de anunciar no Google",
+    "category": "Checklists",
+    "topic": "Google Ads",
+    "format": "Interativo · 8 pontos iniciais",
+    "description": "Organize os acessos, o atendimento e a mensuração antes de colocar sua campanha no ar.",
+    "detail": "Comece pelos 8 pontos de partida e avance pelas seções de planejamento, configuração técnica e acompanhamento. Marque seu progresso, retome no mesmo navegador e imprima quando precisar.",
+    "file": "checklist-google-ads.html",
+    "kind": "html",
+    "action": "Abrir checklist",
+    "message": "Olá, Ander! Vi seu checklist de Google Ads e quero ajuda para anunciar minha empresa."
+  },
+  {
+    "slug": "tutoriais/flow-localizacao",
+    "title": "Sua localização em vídeo com IA",
+    "category": "Tutoriais",
+    "topic": "Flow & IA",
+    "format": "Tutorial · Gerador de prompt",
+    "description": "Transforme mapa, fachada e marca em um roteiro de vídeo de localização usando o Flow.",
+    "detail": "Separe suas referências, preencha o nome e endereço da sua empresa e gere um prompt personalizado. Copie ou baixe o texto e siga as orientações para criar e finalizar seu vídeo no Flow.",
+    "file": "flow-localizacao.html",
+    "kind": "html",
+    "action": "Ver tutorial",
+    "message": "Olá, Ander! Vi seu tutorial de localização no Flow e quero ajuda com vídeos e IA para minha empresa."
+  }
+]

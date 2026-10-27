@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+*.log
+private/
+originals/
+**/biblioteca_estilos_codex_remotion.html
+**/*laboratorio*
+**/*laboratório*
+/checklist_google_ads_anderleads.html
+/tutorial_flow_localizacao_atualizado.html
+/Guia_Qual_Canal_Anunciar_AnderLeads.pdf
+
+# Imagens originais: publicar apenas as cópias explícitas em site/
+/foto.png
+/LOGOS.png
+/LOGOS (1).png

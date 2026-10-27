@@ -1,0 +1,13 @@
+{
+  "name": "anderleads-materiais",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node --test scripts/check.test.mjs"
+  }
+}
